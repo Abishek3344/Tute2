@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="Number1">Number1</string>
+    <string name="Number2">Number2</string>
+    <string name="helloWorld">Hello World</string>
+    <string name="toastMessage">To</string>
+    <string name="custom_toast">Custom Toast</string>
+</resources>
